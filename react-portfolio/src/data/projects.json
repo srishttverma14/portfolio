@@ -1,0 +1,23 @@
+[
+  {
+    "title":"Multiplayer Tic-Tac-Toe",
+    "imageSrc":"projects/project1.jpg",
+    "description":"This is a project made to play Tic-Tac-Toe multiplayer using WebSocket.",
+    "skills":["ReactJS","NodeJS","SocketIO"],
+    "source":"https://github.com/srishttverma14/tic-tac-toe-react"
+  },
+  {
+    "title":"Signature Downloader",
+    "imageSrc":"projects/project3.png",
+    "description":"This is a project made to draw and download image of your Signature.",
+    "skills":["HTML","CSS","JavaScript"],
+    "source":"https://github.com/srishttverma14/signature_downloader"
+  },
+  {
+    "title":"Handwritten Digit Recognition",
+    "imageSrc":"projects/project2.png",
+    "description":"This is a ML model made to recognize handwritten digit using Random Forest Classifier.",
+    "skills":["Pandas","Numpy","Matplotlib","Scikit-learn"],
+    "source":"https://github.com/srishttverma14/handwritten_digit_prediction"
+  }
+]
